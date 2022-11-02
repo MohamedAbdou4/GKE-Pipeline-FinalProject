@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: node-app-container
-          image: mohamedabdou4/final-project-node-app
+          image: mohamedabdou4/final-project-node-app-1
           ports:
             - name: http-port
               containerPort: 3000
